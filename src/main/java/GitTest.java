@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello git");
         int i = 0;
         String s = "nihao";
+        System.out.println("change1");
     }
 }
