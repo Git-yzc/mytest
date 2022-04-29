@@ -10,5 +10,7 @@ public class GitTest {
         int i = 0;
         String s = "nihao";
         System.out.println("change1");
+        System.out.println("change2");
+
     }
 }
