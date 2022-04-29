@@ -11,6 +11,6 @@ public class GitTest {
         String s = "nihao";
         System.out.println("change1");
         System.out.println("master change2");
-
+        System.out.println("change2");
     }
 }
